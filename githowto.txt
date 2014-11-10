@@ -1,0 +1,22 @@
+
+******************README and HOWTO**************************
+Created Data:2014.11.10
+Last Fixed Date:
+Author :Kingstar
+
+
+
+1,Install Git Server and Git client.
+Git Server could select Github,alternatively can create it by self.
+Git client could installed from YUM or Source way on the centos.
+
+2,Initial Git client.
+#git --help to show git features.
+#git config --global user.name "xxxx"
+#git config --global user.email "xxx@yyy.com"
+
+create folder on syste.
+#mkdir xxx&& cd xxx
+git init
+
+
